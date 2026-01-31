@@ -1,0 +1,2 @@
+Git branching is basically used for the group projects.
+we can create and manage multiple branches.
